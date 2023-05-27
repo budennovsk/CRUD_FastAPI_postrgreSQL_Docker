@@ -40,20 +40,19 @@ ___
 
 ### Home Swagger UI
 
-<img src="https://github.com/budennovsk/Parse_FastAPI_postgreSQL_Docker/assets/97764479/601c558a-20e7-431b-a067-eaa4f89e18bb" width=70% height=70%>
-<br>
+<img src="https://github.com/budennovsk/CRUD_FastAPI_postrgreSQL_Docker/assets/97764479/cce721bf-c6af-4fe4-a573-cd22b14700cf" width=70% height=70%>
 
-### GET запрос 
+### POST запрос создание пользователя по имени
 
-<img src="https://github.com/budennovsk/Parse_FastAPI_postgreSQL_Docker/assets/97764479/bb217ea6-9a90-4918-8154-453940773295" width=70% height=70%>
+<img src="https://github.com/budennovsk/CRUD_FastAPI_postrgreSQL_Docker/assets/97764479/00db82a0-79c3-4165-b2a8-70ac64325c81" width=70% height=70%>
 
-### POST запрос с добавлением 3 записей в БД
+### POST запрос создания аудиофайла по данным о пользователе и записью в БД
 
-<img src="https://github.com/budennovsk/Parse_FastAPI_postgreSQL_Docker/assets/97764479/e08a6c8e-ac7f-4a37-8f23-ef69feb4e6ee" width=70% height=70%>
+<img src="https://github.com/budennovsk/CRUD_FastAPI_postrgreSQL_Docker/assets/97764479/c6450bff-233f-4c10-9bf8-9e7e7baeba8e" width=70% height=70%>
 
-### Result
+### Result 
 
-<img src="https://github.com/budennovsk/Parse_FastAPI_postgreSQL_Docker/assets/97764479/29388752-1ad6-492c-84f8-46ff446b5122" width=70% height=70%>
+<img src="https://github.com/budennovsk/CRUD_FastAPI_postrgreSQL_Docker/assets/97764479/a48da3c3-17ab-4735-8d6a-f675c6f4c5e3" width=70% height=70%>
 ____
 
 ### Запуск проекта
