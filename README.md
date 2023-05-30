@@ -1,4 +1,4 @@
-# CRUD_FastAPI_postrgreSQL_Docker использовал:
+# Wav_to_mp3_FastAPI_postrgreSQL_Docker использовал:
 *  SQL db PostgreSQL
 *  FastAPI 
 *  SQLAlchemy
